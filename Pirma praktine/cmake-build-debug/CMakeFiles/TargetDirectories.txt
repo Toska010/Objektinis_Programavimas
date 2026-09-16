@@ -1,0 +1,3 @@
+C:/Users/s057522/Desktop/Objektinis_Programavimas/Pirma praktine/cmake-build-debug/CMakeFiles/Pirma_praktine.dir
+C:/Users/s057522/Desktop/Objektinis_Programavimas/Pirma praktine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s057522/Desktop/Objektinis_Programavimas/Pirma praktine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
